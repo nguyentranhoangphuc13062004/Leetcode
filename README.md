@@ -7,6 +7,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0735-asteroid-collision](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1544-make-the-string-great](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 ## Design
@@ -56,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0735-asteroid-collision](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -65,4 +67,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
