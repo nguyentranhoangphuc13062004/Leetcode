@@ -4,14 +4,17 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
