@@ -25,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0217-contains-duplicate](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0217-contains-duplicate](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0735-asteroid-collision](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
@@ -86,4 +88,8 @@
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0086-partition-list](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0086-partition-list/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
