@@ -66,6 +66,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0179-largest-number](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -94,9 +95,11 @@
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0086-partition-list](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0086-partition-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0179-largest-number](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
