@@ -72,6 +72,7 @@
 | [0219-contains-duplicate-ii](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0735-asteroid-collision](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [2733-neither-minimum-nor-maximum](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@
 | ------- | ------- |
 | [0179-largest-number](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [2733-neither-minimum-nor-maximum](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
