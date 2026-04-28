@@ -41,6 +41,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@
 | [0179-largest-number](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/nguyentranhoangphuc13062004/Leetcode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
